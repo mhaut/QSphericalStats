@@ -1,7 +1,7 @@
 # QgisSphericalStats3D: Spherical Statistics in QGIS
 
 <p align="center">
-<img src="https://github.com/mhaut/QgisSphericalStats3D/blob/main/images/qgis_sphericalstats3d.png?raw=true" width="600">
+<img src="https://github.com/mhaut/QgisSphericalStats3D/blob/main/images/logo.png?raw=true" width="600">
 </p>
 
 ## Overview
