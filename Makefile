@@ -1,7 +1,7 @@
 #/***************************************************************************
-# qgissphericalstats
+# qsphericalstats
 #
-# qgissphericalstats
+# qsphericalstats
 #							 -------------------
 #		begin				: 2022-09-19
 #		git sha				: $Format:%H$
@@ -38,15 +38,15 @@ LOCALES =
 # translation
 SOURCES = \
 	__init__.py \
-	qgissphericalstats.py qgissphericalstats_dialog.py
+	qsphericalstats.py qsphericalstats_dialog.py
 
-PLUGINNAME = qgissphericalstats
+PLUGINNAME = qsphericalstats
 
 PY_FILES = \
 	__init__.py \
-	qgissphericalstats.py qgissphericalstats_dialog.py
+	qsphericalstats.py qsphericalstats_dialog.py
 
-UI_FILES = qgissphericalstats_dialog_base.ui
+UI_FILES = qsphericalstats_dialog_base.ui
 
 EXTRAS = metadata.txt icon.png
 

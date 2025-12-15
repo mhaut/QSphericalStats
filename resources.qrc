@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/plugins/qgissphericalstats" >
+    <qresource prefix="/plugins/qsphericalstats" >
         <file>icon.png</file>
     </qresource>
 </RCC>
